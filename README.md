@@ -18,6 +18,8 @@ This repository contains my solutions to Data structures and algorithm coding pr
 - [DAY-1](https://github.com/Kinshuk3/DSA-Practice/commit/56b40de6513108dc54cc882c4bb1b39e9c0b0e0a)
 - [DAY-2](https://github.com/Kinshuk3/DSA-Practice/commit/efbc8f7b2cb08a0b388fc9dd89d70716978853df)
 - [DAY-3](https://github.com/Kinshuk3/DSA-Practice/commit/f87c63c911c2bae1235d9de808ebf23a39c2da01)
+- [DAY-4](https://github.com/Kinshuk3/DSA-Practice/commit/680f9128993bdafb7dbfae3c99888eae867d81a8)
+- [DAY-5](https://github.com/Kinshuk3/DSA-Practice/commit/543c5d93b62b203d419cac859b7bbd8b738ac0c4)
 
 
 ### Takeaway
