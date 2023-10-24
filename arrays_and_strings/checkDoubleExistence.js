@@ -1,5 +1,5 @@
 /**
- * LEETCODE PROBLEM: 1207. Unique Number of Occurrences
+ * LEETCODE PROBLEM: 1346. Check If N and Its Double Exist
  * https://leetcode.com/problems/unique-number-of-occurrences/
  * 
  * @param {number[]} arr
